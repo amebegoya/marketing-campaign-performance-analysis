@@ -34,7 +34,7 @@ Skills: SSL/Security Configuration, Data Modelling, DAX, Dashboard Design
 
 **Project Structure** 
 **[SQL Scripts](./sql-scripts/):** Contains cleaned and analysed queries.
-**[Power BI File](./marketing_analysis.pbix):** The raw dashboard file (Download to view).
+**[Power BI File](./marketing_campaign_dashboard.pbix):** The dashboard file (Download to view).
 
 **Dashboard Preview**
 ![Marketing Dashboard](./dashboard_view.png)
