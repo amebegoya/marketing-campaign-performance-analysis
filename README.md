@@ -37,4 +37,4 @@ Skills: SSL/Security Configuration, Data Modelling, DAX, Dashboard Design
 **[Power BI File](./marketing_campaign_dashboard.pbix):** The dashboard file (Download to view).
 
 **Dashboard Preview**
-![Marketing Dashboard](./dashboard_view.png)
+![Marketing Dashboard](./dashboard.png)
